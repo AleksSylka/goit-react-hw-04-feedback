@@ -1,0 +1,17 @@
+.card-stat {
+    margin-top: 30px;
+    background-color: rgba(110, 202, 255, 0.4);
+    padding: 15px;
+    border-radius: 15px;
+}
+
+.stat-title {
+    font-size: 24px;
+    font-weight: 700;
+    text-align: center;
+}
+
+.text-stat {
+    font-size: 20px;
+    font-weight: 500;
+}

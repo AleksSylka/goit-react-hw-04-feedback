@@ -1,0 +1,15 @@
+.card-btn {
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    gap: 30px;
+}
+
+.btn {
+    display: block;
+    padding: 10px 20px;
+    font-size: 20px;
+    font-weight: 400;
+    background-color: rgb(207, 255, 153);
+    border-radius: 15px;
+}
